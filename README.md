@@ -15,7 +15,7 @@ Welcome to the 3D Racing Game! This game is an exciting racing experience that p
 
 To play the 3D Racing Game, follow these steps:
 
-1. Download the game from [GoogleDrive].
+1. Download the game from [GoogleDrive] https://drive.google.com/file/d/1XFt0oLqqRG9eaSTx-IA0lS8-WPLjQDsG/view?usp=share_link.
 2. Navigate to the Build folder.
 3. Launch the game by executing the 3D Racing Game.exe.
 4. For project make sure you have installed unityengine version 2021.3x or later.
